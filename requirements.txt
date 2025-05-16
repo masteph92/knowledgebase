@@ -3,4 +3,3 @@ PyMuPDF
 langchain-huggingface
 chromadb
 huggingface_hub[hf_xet]
-openwebui-sdk
